@@ -25,24 +25,6 @@ The application is accessible [here](https://tye232.shinyapps.io/Final_project/)
 
 4. The histogram of compared movies will be displayed side by side, allowing you to analyze their details.
 
-## How to Run Locally
-
-If you want to run this application locally or make change to the project, follow these steps:
-
-1. Make Sure you have R and RStudio downloaded
-2. Clone the repo
-```bash
-git clone https://github.com/tyler232/Movie-Comparator-App.git
-```
-3. Install Shiny in RStudio Terminal
-```r
-install.packages("shiny")
-```
-Or in PC Terminal directly
-```bash
-sudo su - -c "R -e \"install.packages('shiny', repos='http://cran.rstudio.com/')\""
-```
-
 ## Acknowledgments
 [The Open Movie Database(OMDb)](http://www.omdbapi.com) for providing the movie data through their API.
 
