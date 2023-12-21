@@ -1,4 +1,4 @@
-# Movie-Comparator-App
+# Movie-Comparator
 
 <img width="1111" alt="Screenshot 2023-11-02 at 10 30 46 PM" src="https://github.com/tyler232/Movie-Comparator-App/assets/89470281/1d7ade0c-6091-4c9a-a6a7-c146956cf27d">
 
